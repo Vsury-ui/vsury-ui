@@ -1,4 +1,8 @@
 ### Hi there 👋
+---------------------------------------------------------------------------
+:rocket: About me 
+---------------------------------------------------------------------------
+I am **Vivek Suryawanshi**, a Front end Developer (Specializing in Angular applications)
 
 <!--
 **Vsury-ui/vsury-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
